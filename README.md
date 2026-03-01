@@ -45,11 +45,11 @@
 
 | Главная страница | Регистрация | Мои вишлисты |
 |:---:|:---:|:---:|
-| (Screenshots/Главная страница.png) | (Screenshots/Регистрация.png) | (Screenshots/Мои вишлисты.png) |
+| ![Главная](Screenshots/Главная%20страница.png) | ![Регистрация](Screenshots/Регистрация.png) | ![Вишлисты](Screenshots/Мои%20вишлисты.png) |
 
 | Страница вишлиста | Добавление желания |
 |:---:|:---:|
-| ![Wishlist](https://via.placeholder.com/280x160/fff5f5/FF4D6D?text=Wishlist) | ![Add Wish](https://via.placeholder.com/280x160/fff5f5/FF4D6D?text=Add+Wish) |
+| ![Wishlist](Screenshots/Страница%20вишлиста.png) | ![Add Wish](Screenshots/Добавление%20желания.png) |
 
 ---
 ## ⚙️ Установка и запуск
