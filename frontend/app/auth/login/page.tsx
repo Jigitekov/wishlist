@@ -27,7 +27,8 @@ export default function LoginPage() {
     <div className="min-h-screen gradient-soft flex items-center justify-center px-4">
       <div className="w-full max-w-sm">
         <div className="text-center mb-8">
-          <Link href="/" className="text-2xl font-bold gradient-brand bg-clip-text text-transparent">🎁 WishFlow</Link>
+          <Link href="/" className=" text-5xl md:text-6xl font-extrabold tracking-tight mb-6 text-gray-900">🎁 WishFlow</Link>
+          {/* <Link href="/" className="text-2xl font-bold gradient-brand bg-clip-text text-transparent">🎁 WishFlow</Link> */}
           <p className="text-gray-500 mt-2">Войдите в свой аккаунт</p>
         </div>
         <div className="bg-white rounded-2xl shadow-sm border p-8">
