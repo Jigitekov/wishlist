@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { box-sizing: border-box; }
+  body { font-family: 'Inter', system-ui, sans-serif; background: #fafafa; color: #111827; }
+}
+
+@layer utilities {
+  .glass { background: rgba(255,255,255,0.85); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.4); }
+  .gradient-brand { background: linear-gradient(135deg, #f43f5e 0%, #fb923c 100%); }
+  .gradient-soft { background: linear-gradient(135deg, #fff1f3 0%, #fffbeb 100%); }
+}
